@@ -2,7 +2,7 @@
 
 Wolfgang's collection of Claude Code skills. Each skill is standalone — install all at once or pick and choose.
 
-> Looking for 中文版？ Scroll down to [Chinese version](#lab-drawer-中文版).
+> Looking for 中文版？ Scroll down to [Chinese version](#lab-drawer（中文版）).
 
 ## Skills
 
