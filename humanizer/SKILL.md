@@ -1,7 +1,7 @@
 ---
 name: humanizer
 version: 3.0.0
-description: Remove AI-generated writing patterns from text to make it sound natural and human. Based on Wikipedia's "Signs of AI writing" guide. Detects 33 patterns: significance inflation, promotional language, AI vocabulary, em dash overuse, rule of three, filler phrases, and more.
+description: "Remove AI writing patterns from English and Traditional Chinese text. Detects 33+ patterns including em dash overuse, rule of three, AI vocabulary, and filler phrases. Includes voice matching for personalized output."
 license: MIT
 compatibility: claude-code opencode
 ---
