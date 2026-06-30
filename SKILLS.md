@@ -12,10 +12,11 @@
 
 ## guardrail
 
-CLAUDE.md 優化助理，診斷和改善專案設定檔。
+修 CLAUDE.md 的結構病。先問「這段東西真的需要存在嗎？」——能刪就刪，能濃縮成一行就不留三段話。診斷分兩層：結構性問題（dead section、重複規則、過度描述）優先，格式檢查（行數、缺 section）跟進。發現問題會追根究柎，不是只說「太長了」，而是告訴你為什麼會變這麼長、怎麼修最省事。
 
-- **功能**：診斷 CLAUDE.md 的完整性、最佳實踐，生成可執行的改善建議
+- **功能**：lazy senior dev 精神的 CLAUDE.md 診斷工具，deletion-first、root-cause 分析
 - **適用**：Claude Code
+- **版本**：2.0.0
 - **License**：MIT
 - **來源**：https://github.com/wolfgangyu/project-guardrail
 
